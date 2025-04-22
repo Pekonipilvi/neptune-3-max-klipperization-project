@@ -24,10 +24,10 @@ also i did add private key for it (not really needed on home use..just something
 
 BOOT FOLDER TWEAKS
 -----------------------------------------------
-# BTT-PAD7 (ON/OFF)
-BTT_PAD7="ON"
-# Automatic brightness adjustment
-AUTO_BRIGHTNESS="OFF"
+BTT-PAD7 (ON/OFF)
+-BTT_PAD7="ON"
+Automatic brightness adjustment
+-AUTO_BRIGHTNESS="OFF"
 
 
 ALSO SCREEN ROTATION WAS WHACKY
