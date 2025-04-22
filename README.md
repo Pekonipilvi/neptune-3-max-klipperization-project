@@ -16,7 +16,11 @@ FOR CONNECTION
 -----------------------------------------------
 in new install BTT-PAD7 login had changed so had to swap it back on two files
 
-"sudo nano /etc/hostname" - btt-pad7 AND "sudo nano /etc/hosts" -127.0.1.1 btt-pad7
+
+"sudo nano /etc/hostname" - btt-pad7
+
+"sudo nano /etc/hosts" -127.0.1.1 btt-pad7
+
 
 also i did add private key for it (not really needed on home use..just something im used to)
 
@@ -24,8 +28,12 @@ also i did add private key for it (not really needed on home use..just something
 BOOT FOLDER TWEAKS
 -----------------------------------------------
 BTT-PAD7 (ON/OFF)
+
 -BTT_PAD7="ON"
+
+
 Automatic brightness adjustment
+
 -AUTO_BRIGHTNESS="OFF"
 
 
